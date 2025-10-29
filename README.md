@@ -1,0 +1,1 @@
+Bu c++'ta güzel olarak ilk oluşturduğum projem sayılır.While döngüsü kullanıp sürekli programın çalışmasını sağladım.Kullanıcı eğer programdan çıkmak isterse "sonlandir" yazması yeterli ve bunu parantez içinde ayrıca belirttim.Kodun okunurluğu açısındanda kolay olsun diye açık yazmaya çalıştım.
